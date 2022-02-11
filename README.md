@@ -1,4 +1,4 @@
-#Spring Enterprise Application Archetype
+# Spring Enterprise Application Archetype
 
 Generating an archetype project from a multi-module project:
 ```
